@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Physics 101",
+        "stars": 4,
+        "review": "Dr. Johnson explains concepts clearly and is very approachable. Her lectures are engaging, but the exams are a bit tough."
+      },
+      {
+        "professor": "Professor Mark Thompson",
+        "subject": "Computer Science 201",
+        "stars": 5,
+        "review": "Professor Thompson is an amazing instructor! His classes are well-structured, and he provides plenty of resources to help you succeed."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "Mathematics 301",
+        "stars": 3,
+        "review": "Dr. Brown is knowledgeable but sometimes hard to follow. The course material is challenging, and the grading is strict."
+      },
+      {
+        "professor": "Professor James Lee",
+        "subject": "History 101",
+        "stars": 4,
+        "review": "Professor Lee is passionate about history and makes the subject come alive. His lectures are interesting, though the reading load is heavy."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "Chemistry 202",
+        "stars": 2,
+        "review": "Dr. Wilson's lectures are difficult to follow, and the labs are disorganized. However, she's willing to help during office hours."
+      },
+      {
+        "professor": "Dr. Michael Davis",
+        "subject": "Biology 102",
+        "stars": 5,
+        "review": "Dr. Davis is an outstanding professor who genuinely cares about his students. His lectures are clear and informative."
+      },
+      {
+        "professor": "Professor Linda Carter",
+        "subject": "English Literature 205",
+        "stars": 3,
+        "review": "Professor Carter is very knowledgeable, but her lectures can be dry. The reading assignments are extensive but worthwhile."
+      },
+      {
+        "professor": "Dr. Richard Evans",
+        "subject": "Philosophy 101",
+        "stars": 4,
+        "review": "Dr. Evans encourages critical thinking and class discussions. His exams are challenging but fair."
+      },
+      {
+        "professor": "Professor Karen Miller",
+        "subject": "Psychology 203",
+        "stars": 5,
+        "review": "Professor Miller is fantastic! Her lectures are engaging, and she offers great insights into the subject. Highly recommended."
+      },
+      {
+        "professor": "Dr. Steven Wright",
+        "subject": "Economics 101",
+        "stars": 2,
+        "review": "Dr. Wright's lectures are hard to follow, and he doesn't seem to care much about student feedback. The course material is dense."
+      },
+      {
+        "professor": "Professor Patricia Adams",
+        "subject": "Sociology 202",
+        "stars": 4,
+        "review": "Professor Adams is passionate about sociology and encourages open discussion. Her grading is fair, and she provides helpful feedback."
+      },
+      {
+        "professor": "Dr. Charles Baker",
+        "subject": "Chemistry 101",
+        "stars": 3,
+        "review": "Dr. Baker's lectures are thorough, but sometimes too detailed. The lab work is interesting, but the exams are difficult."
+      },
+      {
+        "professor": "Professor Nancy Hall",
+        "subject": "Art History 104",
+        "stars": 5,
+        "review": "Professor Hall is a great lecturer with a deep knowledge of art history. Her classes are fascinating, and she makes the material accessible."
+      },
+      {
+        "professor": "Dr. George Martinez",
+        "subject": "Statistics 201",
+        "stars": 3,
+        "review": "Dr. Martinez is a decent instructor, but his lectures can be monotonous. The course is math-heavy, and the problem sets are challenging."
+      },
+      {
+        "professor": "Professor Emily Turner",
+        "subject": "Anthropology 102",
+        "stars": 4,
+        "review": "Professor Turner is engaging and brings a lot of enthusiasm to her lectures. The course materials are interesting, but the exams are tricky."
+      },
+      {
+        "professor": "Dr. Brian Parker",
+        "subject": "Environmental Science 301",
+        "stars": 4,
+        "review": "Dr. Parker's class is well-organized, and he covers a lot of ground. The field trips are a highlight, though the exams are tough."
+      },
+      {
+        "professor": "Professor Laura White",
+        "subject": "Political Science 101",
+        "stars": 5,
+        "review": "Professor White is knowledgeable and engaging. Her lectures are insightful, and she encourages students to think critically."
+      },
+      {
+        "professor": "Dr. Henry Moore",
+        "subject": "Chemistry 203",
+        "stars": 2,
+        "review": "Dr. Moore's lectures are confusing, and he doesn't explain concepts well. The lab sessions are poorly organized."
+      },
+      {
+        "professor": "Professor Elizabeth Green",
+        "subject": "Literature 302",
+        "stars": 4,
+        "review": "Professor Green has a passion for literature that comes through in her teaching. The reading list is extensive but rewarding."
+      },
+      {
+        "professor": "Dr. Thomas Lewis",
+        "subject": "Physics 202",
+        "stars": 3,
+        "review": "Dr. Lewis is knowledgeable, but his teaching style is dry. The problem sets are challenging, and the exams are difficult."
+      }
+    ]
+  }
+  
